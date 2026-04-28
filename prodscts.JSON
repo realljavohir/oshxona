@@ -1,0 +1,30 @@
+{
+    "Meva"      : {
+              "Olma"        : "8000",
+              "Banan"       : "22000",
+              "Gilos"       : "35000",
+              "Uzum"        : "15000",
+              "Anor"        : "18000"
+    },
+    "Shirinlik" : {
+              "Medoviy tort": "12000",
+              "Shokolad"    : "15000",
+              "Muzqaymoq"   : "7000",
+              "Pahlava"     : "15000",
+              "Ekler"       : "20000"
+    },
+    "Ichimlik"  : {
+              "Kofe"        : "15000",
+              "Choy"        : "5000",
+              "Sharbat"     : "12000",
+              "Gazli suv"   : "5000",
+              "Ayron"       : "4000"
+    },
+    "Ovqat"     : {
+              "Osh"         : "30000",
+              "Shashlik"    : "18000",
+              "Somsa"       : "8000",
+              "Lag'mon"     : "25000",
+              "Sho'rva"     : "22000"
+    }
+}
